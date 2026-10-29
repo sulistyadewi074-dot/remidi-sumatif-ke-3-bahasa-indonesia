@@ -1,0 +1,8 @@
+{
+  "name": "Remidi sumatif ke-3 Bahasa Indonesia",
+  "description": "Aplikasi Tes remidi Sumatif Bahasa Indonesia Kelas VI SD Negeri 3 Loloan Timur dengan 30 butir soal kategori mudah (10 PG, 5 PGK, 5 PGK Kategori, 5 Menjodohkan, 5 Isian), sinkronisasi Google Spreadsheet, unduh PDF naskah & hasil tes, serta panel guru.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
